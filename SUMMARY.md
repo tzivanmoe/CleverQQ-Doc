@@ -1,1 +1,1 @@
--  [指南](https://github.com/yiveco/cleverqq-doc/guide.md)
+-  [指南](https://github.com/yiveco/CleverQQ-Doc/blob/master/guide.md)
